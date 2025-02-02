@@ -55,7 +55,7 @@ A modern and responsive social media profile card built with React and Tailwind 
 If you have any questions or inquiries, you can reach out to me
 
 - 📧 Email: [amanxsyed@gmail.com](mailto:amanxsyed@gmail.com)
-- 💼 LinkedIn: [Aman Syed](https://www.linkedin.com/in/amanxsyed)
+- 💼 LinkedIn: [Syed Aman Shah](https://www.linkedin.com/in/amanxsyed)
 - 🐙 GitHub: [@amanxsyed](https://github.com/amanxsyed)
 
 ## 🌍 SEO Optimization
