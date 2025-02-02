@@ -1,13 +1,12 @@
-import { useState } from 'react'
 import './index.css';
+import ProfileCard from './components/ProfileCard';
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
-    <>
-      <p>Syed Aman this side!</p>
-    </>
+    <div className="flex justify-center items-center min-h-screen bg-blue-500">
+      <ProfileCard />
+    </div>
   )
 }
 
