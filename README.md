@@ -3,7 +3,7 @@
 A modern and responsive social media profile card built with React and Tailwind CSS. This project features a profile picture, a cover photo, social media links, & a short bio.
 
 ## 🚀 Live Demo
-[Click here to view the live project](#) <!-- Replace # with your live project URL -->
+[Click here to view the live project](https://profile-card-react-abx.vercel.app/)
 
 ## 🛠 Features
 - Fully responsive design
@@ -55,7 +55,7 @@ A modern and responsive social media profile card built with React and Tailwind 
 If you have any questions or inquiries, you can reach out to me
 
 - 📧 Email: [amanxsyed@gmail.com](mailto:amanxsyed@gmail.com)
-- 💼 LinkedIn: [Aman Syed](https://www.linkedin.com/in/amanxsyed)
+- 💼 LinkedIn: [Syed Aman Shah](https://www.linkedin.com/in/amanxsyed)
 - 🐙 GitHub: [@amanxsyed](https://github.com/amanxsyed)
 
 ## 🌍 SEO Optimization
