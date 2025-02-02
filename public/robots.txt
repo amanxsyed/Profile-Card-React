@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://profile-card-react-abx.vercel.app/sitemap.xml
